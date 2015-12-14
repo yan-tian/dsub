@@ -4,6 +4,7 @@
 # author: yant@ihep.ac.cn
 # last updated: 2015-06-15
 # version 1.0
+# add a long commet for testing if the scroll bar below can float. Let's see! Let's see!Let's see! Let's see! Let's see! Let's see! Let's see! Let's see! Let's see! Let's see! Let's see! Let's see! Let's see!
 import sys, os, os.path, re, time, commands, shutil
 try:
     import xml.etree.cElementTree as ET
